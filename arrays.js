@@ -43,5 +43,3 @@ function removeElementFromEndOfArray(chocolateBars){
   chocolateBars = chocolateBars.slice(4);
   return chocolateBars;
 }
-
-
